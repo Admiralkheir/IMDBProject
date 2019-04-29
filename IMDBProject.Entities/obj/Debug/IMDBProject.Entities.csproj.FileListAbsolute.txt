@@ -1,0 +1,10 @@
+C:\Users\Admiralkheir\Source\Workspaces\IMDBProject\IMDBProjectSolution\IMDBProject.Entities\bin\Debug\IMDBProject.Entities.dll.config
+C:\Users\Admiralkheir\Source\Workspaces\IMDBProject\IMDBProjectSolution\IMDBProject.Entities\bin\Debug\IMDBProject.Entities.dll
+C:\Users\Admiralkheir\Source\Workspaces\IMDBProject\IMDBProjectSolution\IMDBProject.Entities\bin\Debug\IMDBProject.Entities.pdb
+C:\Users\Admiralkheir\Source\Workspaces\IMDBProject\IMDBProjectSolution\IMDBProject.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Admiralkheir\Source\Workspaces\IMDBProject\IMDBProjectSolution\IMDBProject.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admiralkheir\Source\Workspaces\IMDBProject\IMDBProjectSolution\IMDBProject.Entities\obj\Debug\IMDBProject.Entities.csprojAssemblyReference.cache
+C:\Users\Admiralkheir\Source\Workspaces\IMDBProject\IMDBProjectSolution\IMDBProject.Entities\obj\Debug\IMDBProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admiralkheir\Source\Workspaces\IMDBProject\IMDBProjectSolution\IMDBProject.Entities\obj\Debug\IMDBProject.Entities.csproj.CopyComplete
+C:\Users\Admiralkheir\Source\Workspaces\IMDBProject\IMDBProjectSolution\IMDBProject.Entities\obj\Debug\IMDBProject.Entities.dll
+C:\Users\Admiralkheir\Source\Workspaces\IMDBProject\IMDBProjectSolution\IMDBProject.Entities\obj\Debug\IMDBProject.Entities.pdb

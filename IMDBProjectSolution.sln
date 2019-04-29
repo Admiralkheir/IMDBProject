@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMDBProject.Entities", "IMDBProject.Entities\IMDBProject.Entities.csproj", "{C49CB7EA-D8F3-4FA7-979D-5BCB97A4CC9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMDBProject.DAL", "IMDBProject.DAL\IMDBProject.DAL.csproj", "{F3830DCB-661A-4437-A2B7-E361781C892C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMDBProject.BLL", "IMDBProject.BLL\IMDBProject.BLL.csproj", "{AAF642BD-0343-4829-ADCF-7F88C4A99078}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMDBProject.WinUI", "IMDBProject.WinUI\IMDBProject.WinUI.csproj", "{EF2DCBBA-BFEB-4141-A707-5DB7332BA48B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C49CB7EA-D8F3-4FA7-979D-5BCB97A4CC9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C49CB7EA-D8F3-4FA7-979D-5BCB97A4CC9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C49CB7EA-D8F3-4FA7-979D-5BCB97A4CC9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C49CB7EA-D8F3-4FA7-979D-5BCB97A4CC9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3830DCB-661A-4437-A2B7-E361781C892C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3830DCB-661A-4437-A2B7-E361781C892C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3830DCB-661A-4437-A2B7-E361781C892C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3830DCB-661A-4437-A2B7-E361781C892C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAF642BD-0343-4829-ADCF-7F88C4A99078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF642BD-0343-4829-ADCF-7F88C4A99078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF642BD-0343-4829-ADCF-7F88C4A99078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF642BD-0343-4829-ADCF-7F88C4A99078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF2DCBBA-BFEB-4141-A707-5DB7332BA48B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF2DCBBA-BFEB-4141-A707-5DB7332BA48B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF2DCBBA-BFEB-4141-A707-5DB7332BA48B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF2DCBBA-BFEB-4141-A707-5DB7332BA48B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6935790D-012C-4E01-98C0-6FE0AF3DB53A}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/girlpowerorg
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = IMDBProject.Entities\\IMDBProject.Entities.csproj
+		SccProjectName1 = IMDBProject.Entities
+		SccLocalPath1 = IMDBProject.Entities
+		SccProjectUniqueName2 = IMDBProject.DAL\\IMDBProject.DAL.csproj
+		SccProjectName2 = IMDBProject.DAL
+		SccLocalPath2 = IMDBProject.DAL
+		SccProjectUniqueName3 = IMDBProject.BLL\\IMDBProject.BLL.csproj
+		SccProjectName3 = IMDBProject.BLL
+		SccLocalPath3 = IMDBProject.BLL
+		SccProjectUniqueName4 = IMDBProject.WinUI\\IMDBProject.WinUI.csproj
+		SccProjectName4 = IMDBProject.WinUI
+		SccLocalPath4 = IMDBProject.WinUI
+	EndGlobalSection
+EndGlobal

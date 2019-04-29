@@ -1,0 +1,13 @@
+C:\Users\Admiralkheir\Source\Workspaces\IMDBProject\IMDBProjectSolution\IMDBProject.DAL\bin\Debug\IMDBProject.DAL.dll.config
+C:\Users\Admiralkheir\Source\Workspaces\IMDBProject\IMDBProjectSolution\IMDBProject.DAL\bin\Debug\IMDBProject.DAL.dll
+C:\Users\Admiralkheir\Source\Workspaces\IMDBProject\IMDBProjectSolution\IMDBProject.DAL\bin\Debug\IMDBProject.DAL.pdb
+C:\Users\Admiralkheir\Source\Workspaces\IMDBProject\IMDBProjectSolution\IMDBProject.DAL\bin\Debug\IMDBProject.Entities.dll
+C:\Users\Admiralkheir\Source\Workspaces\IMDBProject\IMDBProjectSolution\IMDBProject.DAL\bin\Debug\IMDBProject.Entities.pdb
+C:\Users\Admiralkheir\Source\Workspaces\IMDBProject\IMDBProjectSolution\IMDBProject.DAL\bin\Debug\IMDBProject.Entities.dll.config
+C:\Users\Admiralkheir\Source\Workspaces\IMDBProject\IMDBProjectSolution\IMDBProject.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Admiralkheir\Source\Workspaces\IMDBProject\IMDBProjectSolution\IMDBProject.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admiralkheir\Source\Workspaces\IMDBProject\IMDBProjectSolution\IMDBProject.DAL\obj\Debug\IMDBProject.DAL.csprojAssemblyReference.cache
+C:\Users\Admiralkheir\Source\Workspaces\IMDBProject\IMDBProjectSolution\IMDBProject.DAL\obj\Debug\IMDBProject.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admiralkheir\Source\Workspaces\IMDBProject\IMDBProjectSolution\IMDBProject.DAL\obj\Debug\IMDBProject.DAL.csproj.CopyComplete
+C:\Users\Admiralkheir\Source\Workspaces\IMDBProject\IMDBProjectSolution\IMDBProject.DAL\obj\Debug\IMDBProject.DAL.dll
+C:\Users\Admiralkheir\Source\Workspaces\IMDBProject\IMDBProjectSolution\IMDBProject.DAL\obj\Debug\IMDBProject.DAL.pdb
