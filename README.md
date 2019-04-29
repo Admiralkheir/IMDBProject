@@ -1,3 +1,3 @@
 # IMDBProjectSolution
 
-Technologies and Languages: C#, ASP.NET MVC, Javascript/JQuery, MSSQL, HTML, Boostrap/CCS3, Entity Framework
+Technologies and Languages: C#, MSSQL, Entity Framework, LINQ
